@@ -1,0 +1,7 @@
+numpy
+pandas
+python-dotenv
+msql-connector-python
+pymysql
+scikit-learn
+#-e .
