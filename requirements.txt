@@ -4,4 +4,13 @@ python-dotenv
 msql-connector-python
 pymysql
 scikit-learn
+seaborn
+matplotlib.pyplot
+catboost
+pickel
+xgboost
+flask
+dill
+mlflow==2.2.2
+
 #-e .
